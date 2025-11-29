@@ -1,0 +1,15 @@
+{
+  "conclusion": "Stay tuned for more updates",
+  "introduction": "Welcome to today's AI news summary",
+  "sections": [
+    {
+      "articles": [
+        {
+          "headline": "AI breakthrough",
+          "summary": "New AI model released"
+        }
+      ],
+      "title": "Technology"
+    }
+  ]
+}
