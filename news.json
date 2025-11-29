@@ -1,15 +1,15 @@
 {
-  "conclusion": "More to come",
-  "introduction": "Breaking news update",
+  "conclusion": "End of report",
+  "introduction": "Daily briefing",
   "sections": [
     {
       "articles": [
         {
-          "headline": "Research discovery",
-          "summary": "Scientists find new element"
+          "headline": "Market update",
+          "summary": "Stocks rise today"
         }
       ],
-      "title": "Science"
+      "title": "Business"
     }
   ]
 }
